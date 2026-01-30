@@ -1,4 +1,5 @@
 document.getElementById("clickMe").addEventListener("click", function() {
-  alert("Hello! You clicked the button 🎉");
+  alert("I love Paul 🎉");
 
 });
+
